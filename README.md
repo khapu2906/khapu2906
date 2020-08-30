@@ -1,5 +1,5 @@
-<h1 align="center">Why are you here </h1>
-<h3 align="center">Coding as </h3>
+<h1 align="center">Why are you here ??</h1>
+<h3 align="center">Coding as artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
@@ -21,6 +21,5 @@
 <a href="https://dev.to/khapu2906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="khapu2906" height="30" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/d.kha.pu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/d.kha.pu" height="30" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/d_kha.pu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/d_kha.pu" height="30" width="30" /></a>
-<a href="https://dribbble.com/phùng đại khánh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="phùng đại khánh" height="30" width="30" /></a>
-<a href="https://www.behance.net/phùng đại khánh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="phùng đại khánh" height="30" width="30" /></a>
-</p>
+
+
