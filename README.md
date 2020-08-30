@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KhaPu</h1>
+<h1 align="center">Why </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
