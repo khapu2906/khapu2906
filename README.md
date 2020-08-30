@@ -1,5 +1,5 @@
-<h1 align="center">Why </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Why are you here </h1>
+<h3 align="center">Coding as </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
