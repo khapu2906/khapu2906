@@ -19,7 +19,7 @@
 
  <h3>My typical projects</h3>
 <p align="left">
-<a href="https://husgarden.vn/" target="blank"><img align="center" src="https://husgarden.vn/public/resources/images/logo_brand/logo.jpg" alt="khapu2906" height="30" width="30" /></a>
+<a href="https://husgarden.vn/" target="blank"><img align="center" src="https://husgarden.vn/public/resources/images/logo_brand/logo.jpg" alt="khapu2906" height="50" width="50" /></a>
 </p>
 <br>
 <p align="center">
