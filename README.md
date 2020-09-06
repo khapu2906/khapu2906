@@ -22,4 +22,4 @@
 <a href="https://fb.com/https://www.facebook.com/d.kha.pu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/d.kha.pu" height="30" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/d_kha.pu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/d_kha.pu" height="30" width="30" /></a>
 
-
+</p>
