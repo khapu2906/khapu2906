@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
-- 🌱 I’m currently learning **reactJS**
+- 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **laravel, php, mysql, MS SQL**
+- 💬 Ask me about **laravel, php, mysql, MS SQL, nodejs, angular**
 
 - 📫 How to reach me **daikhanh9260@gmail.com**
 
