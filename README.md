@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I'm research **Refactoring and Architecture**
 
 - 💬 Ask me about **laravel, nodejs, golang, php, c++, mysql, MS SQL, angular**
 
