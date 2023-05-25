@@ -89,14 +89,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0sgt7nI8B3A7xcRzc6p4xUAURnxL41XMrn_9Ynz4WVWE8ZyW7cSyLd_CNZJTkG_7WJ4&usqp=CAU" alt="rollbar" width="40" height="40"/> 
 </p>
 <br>
-<div style="display:flex">
-    <p>&nbsp;
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khapu2906&layout=compact&hide=html" alt="khapu2906" />
-    </p>
-    <p>&nbsp;
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=khapu2906&show_icons=true" alt="khapu2906" />
-    </p>
-</div>
 <br>
 <p align="center">
     <a href="https://dev.to/khapu2906" target="blank">
