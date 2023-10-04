@@ -5,7 +5,7 @@
 
 - 🌱 I'm research **Refactoring and Architecture**
 
-- 💬 Ask me about **laravel, nodejs, golang, php, c++, mysql, MS SQL, angular**
+- 💬 Ask me about **laravel, nodejs, php, c++, mysql, MS SQL, angular**
 
 - 📫 How to reach me **daikhanh9260@gmail.com**
 
@@ -28,7 +28,6 @@
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
 </p>
 
