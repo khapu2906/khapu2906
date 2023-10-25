@@ -3,16 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
-- 🌱 I'm research **Refactoring and Architecture**
+- 🌱 I'm known as **Solution Architecture**
 
-- 💬 Ask me about **laravel, nodejs, php, c++, mysql, MS SQL, angular**
+- 💬 Ask me about **laravel, nodejs, php, c++, mysql, postgres, angular, aws**
 
 - 📫 How to reach me **daikhanh9260@gmail.com**
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 ### My skills
 #### Frontend
 
