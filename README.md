@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
-- 🌱 I'm known as **Solution Architecture**
+- 🌱 I'm known as **Solution Architect**
 
 - 💬 Ask me about **laravel, nodejs, php, c++, mysql, postgres, angular, aws**
 
