@@ -25,7 +25,6 @@
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/pythorn-icon.svg" alt="python" width="40" height="40"/> 
 </p>
 
 #### Database, storage technology, search engine
