@@ -143,6 +143,11 @@
     <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/rest-api-icon.png" alt="restapi" width="40" height="40"/>
 </p>
 
+
+<p align="left">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khapu2906&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=100" alt="khapu2906" /></p>
+
 <br>
 <br>
 <p align="center">
