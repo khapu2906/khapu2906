@@ -145,9 +145,8 @@
 
 
 <p align="left">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khapu2906&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=100" alt="khapu2906" /></p>
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khapu2906&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=100" alt="khapu2906" />
+</p>
 <br>
 <br>
 <p align="center">
