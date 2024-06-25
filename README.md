@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Laravel, Nodejs, Php, Python, Mysql, Postgres, Angular, AWS, Computer Vision, DevOps**
 
-- 📫 How to reach me **daikhanh9260@gmail.com**
+- 📫 How to contact me
+    - to research: **kentphung.scientist@gmail.com**
+    - to write: **kentphung.writer@gmail.com**
 
 ### My skills
 #### Frontend
