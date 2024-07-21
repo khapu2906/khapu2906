@@ -1,9 +1,9 @@
 <h1 align="center">KENT PHUNG</h1>
-<h3 align="center">Work anywhere</h3>
+<h3 align="center">Work Anywhere</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
-- 🌱 I'm known as **a writer in the IT world.**
+- 🌱 I'm known as **Indie Hacker.**
 
 - 💬 Ask me about **Laravel, Nodejs, Php, Python, Mysql, Postgres, Angular, AWS, Computer Vision, DevOps**
 
