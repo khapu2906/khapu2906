@@ -1,5 +1,5 @@
 <h1 align="center">KENT PHUNG</h1>
-<h3 align="center">Work Anywhere</h3>
+<h3 align="center">Together we will bring technology everywhere.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
