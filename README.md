@@ -18,6 +18,7 @@
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vue-icon.svg" alt="vue" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
 </p>
 
