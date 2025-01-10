@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khapu2906" alt="khapu2906" /> </p>
 
 - 🌱 I'm known as **Indie Hacker.**
-
+- 🙋‍♂️ I'm not a fan of **Typescript** although I still use it.
 - 💬 Ask me about **Laravel, Nodejs, Php, Python, Mysql, Postgres, Angular, AWS, Computer Vision, DevOps**
 
 - 📫 How to contact me
