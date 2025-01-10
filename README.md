@@ -5,6 +5,7 @@
 
 - 🌱 I'm known as **Indie Hacker.**
 - 🙋‍♂️ I'm not a fan of **Typescript** although I still use it.
+- 🌟 I'm a fan of **Java** even though I haven't used it in a while
 - 💬 Ask me about **Laravel, Nodejs, Php, Python, Mysql, Postgres, Angular, AWS, Computer Vision, DevOps**
 
 - 📫 How to contact me
