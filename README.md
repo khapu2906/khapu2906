@@ -84,7 +84,7 @@
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 </p>
 
-#### IaC
+#### EaC (Everything as Code)
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="teraform" width="40" height="40"/>
