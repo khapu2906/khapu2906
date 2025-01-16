@@ -89,8 +89,8 @@
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="teraform" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" alt="cloudformation" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg" alt="PaC" width="40" height="40"/> 
 </p>
 
 #### Webserver
